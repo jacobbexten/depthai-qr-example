@@ -1,0 +1,4 @@
+Name: nlohmann_json
+Description: JSON for Modern C++
+Version: 3.9.1
+Cflags: -IC:/Users/jake.bexten/.hunter/_Base/cb0ea1f/2bb444e/54486b4/Build/nlohmann_json/Install/include

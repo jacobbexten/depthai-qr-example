@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# Build outputs
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Local files
+local.properties
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# CMake
+cmake-build-*/
+.cxx/
+
+# Temp files
+*.tmp
+*.bak
+*~

@@ -1,0 +1,45 @@
+# Gradle
+/build
+.gradle
+*.gradle.kts.orig
+
+# Android Studio
+.idea
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# Build outputs
+/out
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Local configuration
+local.properties
+
+# CMake build artifacts
+.cxx
+cmake-build-*
+
+# Native build
+obj/
+libs/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+*.sublime-workspace
+*.sublime-project
+
+# Temp files
+*.tmp
+*.bak
+*~
