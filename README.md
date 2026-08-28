@@ -135,7 +135,3 @@ Currently configured for `arm64-v8a` only. To add more ABIs:
 - Ensure USB debugging enabled on Android device
 - Verify app has camera & USB permissions (AndroidManifest.xml)
 - OAK camera must be connected via USB
-
-## License
-
-[Add your license here]
